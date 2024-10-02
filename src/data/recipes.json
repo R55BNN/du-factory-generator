@@ -11585,6 +11585,23 @@
         },
         "id": 4179758576
     },
+    "Wing L": {
+		        "tier": 1,
+        "type": "Piloting Element",
+        "volume": 3257.625,
+        "outputQuantity": 1,
+        "time": 5520,
+        "byproducts": {},
+        "industry": "Assembly Line L",
+        "input": {
+            "Basic Screw": 96,
+            "Basic Hydraulics": 82,
+            "Basic Mobile Panel L": 1,
+            "Basic Standard Frame L": 1,
+            "Construct Support L Schematic Copy": 1
+        },
+        "id": 3829701531
+	},
     "Basic Atmospheric Engine XS": {
         "tier": 1,
         "type": "Piloting Element",
