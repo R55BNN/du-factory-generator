@@ -206,12 +206,36 @@ for (const name in data) {
         transferBatchSize = 100
         transferTime = 11
     } else if (data[name].type == Category.COMPLEX_PART) {
-        transferBatchSize = 50
-        transferTime = 50 * data[name].volume
+		transferBatchSize = 50
+		switch(data[name].id) {
+			case 2660328728: // Basic Burner
+			case 2660328729: // Uncommon Burner
+			case 2660328734: // Advanced Burner
+			case 2660328735: // Rare Burner
+			case 2660328732: // Exotic Burner
+			
+			case 1331181119: // Basic Hydraulics
+			case 1331181118: // Uncommon Hydraulics
+			case 1331181089: // Advanced Hydraulics
+			case 1331181088: // Rare Hydraulics
+			case 1331181091: // Exotic Hydraulics
+			
+			case 1971447072: // Basic Injectors
+			case 1971447073: // Uncommon Injectors
+			case 1971447078: // Advanced Injectors
+			case 1971447079: // Rare Injectors
+			case 1971447076: // Exotic Injectors
+				transferTime = 60
+				break;
+			default:
+				transferTime = 50 * data[name].volume
+				break;
+		}
     } else if (data[name].type == Category.INTERMEDIARY_PART) {
-        transferBatchSize = 200
-        transferTime = 200 * data[name].volume
+		transferBatchSize = 50
+		transferTime = 25
     }
+	
     items[name] = item(
         name,
         data[name].tier,
