@@ -1246,15 +1246,15 @@
         "tier": 2,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 125,
         "byproducts": {
-            "Pure Oxygen": 7.5,
-            "Pure Carbon": 7.5
+            "Pure Oxygen": 15,
+            "Pure Carbon": 15
         },
         "industry": "Refiner M",
         "input": {
-            "Limestone": 65,
+            "Limestone": 130,
             "Tier 2 Pure Material Schematic Copy": 1
         },
         "id": 2112763718
@@ -1263,15 +1263,15 @@
         "tier": 2,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 125,
         "byproducts": {
-            "Pure Oxygen": 7.5,
-            "Pure Iron": 7.5
+            "Pure Oxygen": 15,
+            "Pure Iron": 15
         },
         "industry": "Refiner M",
         "input": {
-            "Chromite": 65,
+            "Chromite": 90,
             "Tier 2 Pure Material Schematic Copy": 1
         },
         "id": 2147954574
@@ -1280,15 +1280,15 @@
         "tier": 2,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 125,
         "byproducts": {
-            "Pure Hydrogen": 7.5,
-            "Pure Carbon": 7.5
+            "Pure Hydrogen": 15,
+            "Pure Carbon": 15
         },
         "industry": "Refiner M",
         "input": {
-            "Malachite": 65,
+            "Malachite": 130,
             "Tier 2 Pure Material Schematic Copy": 1
         },
         "id": 1466453887
@@ -1297,15 +1297,15 @@
         "tier": 2,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 125,
         "byproducts": {
-            "Pure Hydrogen": 7.5,
-            "Pure Carbon": 7.5
+            "Pure Hydrogen": 15,
+            "Pure Carbon": 15
         },
         "industry": "Refiner M",
         "input": {
-            "Natron": 65,
+            "Natron": 130,
             "Tier 2 Pure Material Schematic Copy": 1
         },
         "id": 3603734543
@@ -1314,15 +1314,15 @@
         "tier": 3,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 625,
         "byproducts": {
-            "Pure Silicon": 7.5,
-            "Pure Aluminium": 7.5
+            "Pure Silicon": 15,
+            "Pure Aluminium": 15
         },
         "industry": "Refiner M",
         "input": {
-            "Petalite": 65,
+            "Petalite": 130,
             "Tier 3 Pure Material Schematic Copy": 1
         },
         "id": 3810111622
@@ -1331,15 +1331,15 @@
         "tier": 3,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 625,
         "byproducts": {
-            "Pure Oxygen": 7.5,
-            "Pure Silicon": 7.5
+            "Pure Oxygen": 15,
+            "Pure Silicon": 15
         },
         "industry": "Refiner M",
         "input": {
-            "Garnierite": 65,
+            "Garnierite": 130,
             "Tier 3 Pure Material Schematic Copy": 1
         },
         "id": 3012303017
@@ -1348,14 +1348,14 @@
         "tier": 3,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 625,
         "byproducts": {
-            "Pure Sulfur": 15
+            "Pure Sulfur": 30
         },
         "industry": "Refiner M",
         "input": {
-            "Acanthite": 65,
+            "Acanthite": 130,
             "Tier 3 Pure Material Schematic Copy": 1
         },
         "id": 1807690770
@@ -1364,14 +1364,14 @@
         "tier": 3,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 625,
         "byproducts": {
-            "Pure Iron": 15
+            "Pure Iron": 30
         },
         "industry": "Refiner M",
         "input": {
-            "Pyrite": 65,
+            "Pyrite": 130,
             "Tier 3 Pure Material Schematic Copy": 1
         },
         "id": 3822811562
@@ -1380,14 +1380,14 @@
         "tier": 4,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 3125,
         "byproducts": {
-            "Pure Sulfur": 15
+            "Pure Sulfur": 30
         },
         "industry": "Refiner M",
         "input": {
-            "Cobaltite": 65,
+            "Cobaltite": 130,
             "Tier 4 Pure Material Schematic Copy": 1
         },
         "id": 2031444137
@@ -1396,15 +1396,15 @@
         "tier": 4,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 3125,
         "byproducts": {
-            "Pure Sodium": 7.5,
-            "Pure Aluminium": 7.5
+            "Pure Sodium": 15,
+            "Pure Aluminium": 15
         },
         "industry": "Refiner M",
         "input": {
-            "Cryolite": 65,
+            "Cryolite": 130,
             "Tier 4 Pure Material Schematic Copy": 1
         },
         "id": 3323724376
@@ -1413,12 +1413,12 @@
         "tier": 4,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 3125,
         "byproducts": {},
         "industry": "Refiner M",
         "input": {
-            "Gold Nuggets": 65,
+            "Gold Nuggets": 130,
             "Tier 4 Pure Material Schematic Copy": 1
         },
         "id": 3837955371
@@ -1427,15 +1427,15 @@
         "tier": 4,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 3125,
         "byproducts": {
-            "Pure Oxygen": 7.5,
-            "Pure Hydrogen": 7.5
+            "Pure Oxygen": 15,
+            "Pure Hydrogen": 15
         },
         "industry": "Refiner M",
         "input": {
-            "Kolbeckite": 65,
+            "Kolbeckite": 130,
             "Tier 4 Pure Material Schematic Copy": 1
         },
         "id": 3211418846
@@ -1444,16 +1444,16 @@
         "tier": 5,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 15600,
         "byproducts": {
-            "Pure Calcium": 5,
-            "Pure Silicon": 5,
-            "Pure Oxygen": 5
+            "Pure Calcium": 10,
+            "Pure Silicon": 10,
+            "Pure Oxygen": 10
         },
         "industry": "Refiner M",
         "input": {
-            "Rhodonite": 65,
+            "Rhodonite": 130,
             "Tier 5 Pure Material Schematic Copy": 1
         },
         "id": 2421303625
@@ -1462,16 +1462,16 @@
         "tier": 5,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 15600,
         "byproducts": {
-            "Pure Iron": 5,
-            "Pure Manganese": 5,
-            "Pure Oxygen": 5
+            "Pure Iron": 10,
+            "Pure Manganese": 10,
+            "Pure Oxygen": 10
         },
         "industry": "Refiner M",
         "input": {
-            "Columbite": 65,
+            "Columbite": 130,
             "Tier 5 Pure Material Schematic Copy": 1
         },
         "id": 1126600143
@@ -1480,15 +1480,15 @@
         "tier": 5,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 15600,
         "byproducts": {
-            "Pure Iron": 7.5,
-            "Pure Oxygen": 7.5
+            "Pure Iron": 15,
+            "Pure Oxygen": 15
         },
         "industry": "Refiner M",
         "input": {
-            "Ilmenite": 65,
+            "Ilmenite": 130,
             "Tier 5 Pure Material Schematic Copy": 1
         },
         "id": 752542080
@@ -1497,14 +1497,14 @@
         "tier": 5,
         "type": "Pure",
         "volume": 1,
-        "outputQuantity": 45,
+        "outputQuantity": 90,
         "time": 15600,
         "byproducts": {
-            "Pure Oxygen": 15
+            "Pure Oxygen": 30
         },
         "industry": "Refiner M",
         "input": {
-            "Vanadinite": 65,
+            "Vanadinite": 130,
             "Tier 5 Pure Material Schematic Copy": 1
         },
         "id": 2007627267
@@ -1652,7 +1652,7 @@
         "subtype": "Space",
         "volume": 1,
         "outputQuantity": 100,
-        "time": 120,
+        "time": 240,
         "byproducts": {},
         "industry": "Chemical Industry M",
         "input": {
@@ -1687,14 +1687,14 @@
         "tier": 1,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 150,
         "byproducts": {},
         "nanopack": true,
         "industry": "Smelter M",
         "input": {
-            "Pure Aluminium": 100,
-            "Pure Iron": 50,
+            "Pure Aluminium": 200,
+            "Pure Iron": 100,
             "Tier 1 Product Material Schematic Copy": 1
         },
         "id": 18262914
@@ -1703,15 +1703,15 @@
         "tier": 3,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 3750,
         "byproducts": {
             "Catalyst 3": 1
         },
         "industry": "Smelter M",
         "input": {
-            "Pure Lithium": 100,
-            "Pure Aluminium": 50,
+            "Pure Lithium": 200,
+            "Pure Aluminium": 100,
             "Catalyst 3": 1,
             "Tier 3 Product Material Schematic Copy": 1
         },
@@ -1721,13 +1721,13 @@
         "tier": 2,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 750,
         "byproducts": {},
         "industry": "Smelter M",
         "input": {
-            "Pure Copper": 100,
-            "Pure Calcium": 50,
+            "Pure Copper": 200,
+            "Pure Calcium": 100,
             "Tier 2 Product Material Schematic Copy": 1
         },
         "id": 1034957327
@@ -1736,15 +1736,15 @@
         "tier": 3,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 3750,
         "byproducts": {
             "Catalyst 3": 1
         },
         "industry": "Smelter M",
         "input": {
-            "Pure Silver": 100,
-            "Pure Copper": 50,
+            "Pure Silver": 200,
+            "Pure Copper": 100,
             "Catalyst 3": 1,
             "Tier 3 Product Material Schematic Copy": 1
         },
@@ -1754,13 +1754,13 @@
         "tier": 2,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 750,
         "time": 750,
         "byproducts": {},
         "industry": "Smelter M",
         "input": {
-            "Pure Copper": 100,
-            "Pure Aluminium": 50,
+            "Pure Copper": 200,
+            "Pure Aluminium": 100,
             "Tier 2 Product Material Schematic Copy": 1
         },
         "id": 231758472
@@ -1769,16 +1769,16 @@
         "tier": 5,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 93780,
         "byproducts": {
             "Catalyst 5": 1
         },
         "industry": "Smelter M",
         "input": {
-            "Pure Titanium": 100,
-            "Pure Vanadium": 50,
-            "Pure Aluminium": 50,
+            "Pure Titanium": 200,
+            "Pure Vanadium": 100,
+            "Pure Aluminium": 100,
             "Catalyst 5": 1,
             "Tier 5 Product Material Schematic Copy": 1
         },
@@ -1788,16 +1788,16 @@
         "tier": 3,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 3780,
         "byproducts": {
             "Catalyst 3": 1
         },
         "industry": "Smelter M",
         "input": {
-            "Pure Nickel": 100,
-            "Pure Chromium": 50,
-            "Pure Iron": 50,
+            "Pure Nickel": 200,
+            "Pure Chromium": 100,
+            "Pure Iron": 100,
             "Catalyst 3": 1,
             "Tier 3 Product Material Schematic Copy": 1
         },
@@ -1807,16 +1807,16 @@
         "tier": 5,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 93780,
         "byproducts": {
             "Catalyst 5": 1
         },
         "industry": "Smelter M",
         "input": {
-            "Pure Manganese": 100,
-            "Pure Niobium": 50,
-            "Pure Iron": 50,
+            "Pure Manganese": 200,
+            "Pure Niobium": 100,
+            "Pure Iron": 100,
             "Catalyst 5": 1,
             "Tier 5 Product Material Schematic Copy": 1
         },
@@ -1826,16 +1826,16 @@
         "tier": 4,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 18780,
         "byproducts": {
             "Catalyst 4": 1
         },
         "industry": "Smelter M",
         "input": {
-            "Pure Cobalt": 100,
-            "Pure Nickel": 50,
-            "Pure Iron": 50,
+            "Pure Cobalt": 200,
+            "Pure Nickel": 100,
+            "Pure Iron": 100,
             "Catalyst 4": 1,
             "Tier 4 Product Material Schematic Copy": 1
         },
@@ -1845,15 +1845,15 @@
         "tier": 4,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 18780,
         "byproducts": {
             "Catalyst 4": 1
         },
         "industry": "Smelter M",
         "input": {
-            "Pure Gold": 100,
-            "Pure Copper": 50,
+            "Pure Gold": 200,
+            "Pure Copper": 100,
             "Catalyst 4": 1,
             "Tier 4 Product Material Schematic Copy": 1
         },
@@ -1863,16 +1863,16 @@
         "tier": 4,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 18780,
         "byproducts": {
             "Catalyst 4": 1
         },
         "industry": "Smelter M",
         "input": {
-            "Pure Scandium": 100,
-            "Pure Aluminium": 50,
-            "Pure Lithium": 50,
+            "Pure Scandium": 200,
+            "Pure Aluminium": 100,
+            "Pure Lithium": 100,
             "Catalyst 4": 1,
             "Tier 4 Product Material Schematic Copy": 1
         },
@@ -1882,14 +1882,14 @@
         "tier": 2,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 750,
         "byproducts": {},
         "industry": "Smelter M",
         "input": {
-            "Pure Chromium": 100,
-            "Pure Iron": 50,
-            "Pure Carbon": 50,
+            "Pure Chromium": 200,
+            "Pure Iron": 100,
+            "Pure Carbon": 100,
             "Tier 2 Product Material Schematic Copy": 1
         },
         "id": 2984358477
@@ -1898,15 +1898,15 @@
         "tier": 5,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 93780,
         "byproducts": {
             "Catalyst 5": 1
         },
         "industry": "Smelter M",
         "input": {
-            "Pure Niobium": 100,
-            "Pure Titanium": 50,
+            "Pure Niobium": 200,
+            "Pure Titanium": 100,
             "Catalyst 5": 1,
             "Tier 5 Product Material Schematic Copy": 1
         },
@@ -1916,15 +1916,15 @@
         "tier": 1,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 150,
         "byproducts": {},
         "nanopack": true,
         "industry": "Chemical Industry M",
         "input": {
-            "Pure Carbon": 100,
-            "Pure Oxygen": 50,
-            "Pure Hydrogen": 50,
+            "Pure Carbon": 200,
+            "Pure Oxygen": 100,
+            "Pure Hydrogen": 100,
             "Tier 1 Product Material Schematic Copy": 1
         },
         "id": 2646210914
@@ -1933,15 +1933,15 @@
         "tier": 1,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 150,
         "byproducts": {},
         "nanopack": true,
         "industry": "Refiner M",
         "input": {
-            "Pure Silicon": 50,
-            "Pure Aluminium": 50,
-            "Pure Oxygen": 50,
+            "Pure Silicon": 100,
+            "Pure Aluminium": 100,
+            "Pure Oxygen": 100,
             "Tier 1 Product Material Schematic Copy": 1
         },
         "id": 2679709617
@@ -1950,14 +1950,14 @@
         "tier": 2,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 750,
         "byproducts": {},
         "industry": "Refiner M",
         "input": {
-            "Pure Calcium": 50,
-            "Pure Carbon": 50,
-            "Pure Oxygen": 50,
+            "Pure Calcium": 100,
+            "Pure Carbon": 100,
+            "Pure Oxygen": 100,
             "Tier 2 Product Material Schematic Copy": 1
         },
         "id": 331532952
@@ -1966,14 +1966,14 @@
         "tier": 2,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 750,
         "byproducts": {},
         "industry": "Refiner M",
         "input": {
-            "Pure Calcium": 5,
-            "Pure Carbon": 37.5,
-            "Pure Silicon": 37.5,
+            "Pure Calcium": 10,
+            "Pure Carbon": 75,
+            "Pure Silicon": 75,
             "Tier 2 Product Material Schematic Copy": 1
         },
         "id": 645870905
@@ -1982,14 +1982,14 @@
         "tier": 1,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 150,
         "byproducts": {},
         "nanopack": true,
         "industry": "3D Printer M",
         "input": {
-            "Polycarbonate Plastic": 50,
-            "Pure Carbon": 50,
+            "Polycarbonate Plastic": 100,
+            "Pure Carbon": 100,
             "Tier 1 Product Material Schematic Copy": 1
         },
         "id": 1622880428
@@ -1998,14 +1998,14 @@
         "tier": 1,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 150,
         "byproducts": {},
         "nanopack": true,
         "industry": "Glass Furnace M",
         "input": {
-            "Pure Silicon": 100,
-            "Pure Oxygen": 50,
+            "Pure Silicon": 200,
+            "Pure Oxygen": 100,
             "Tier 1 Product Material Schematic Copy": 1
         },
         "id": 1942154251
@@ -2014,15 +2014,15 @@
         "tier": 2,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 750,
         "byproducts": {},
         "industry": "Glass Furnace M",
         "input": {
-            "Pure Sodium": 100,
-            "Pure Calcium": 50,
-            "Pure Silicon": 50,
-            "Pure Oxygen": 50,
+            "Pure Sodium": 200,
+            "Pure Calcium": 100,
+            "Pure Silicon": 100,
+            "Pure Oxygen": 100,
             "Tier 2 Product Material Schematic Copy": 1
         },
         "id": 1942154251
@@ -2031,17 +2031,17 @@
         "tier": 3,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 3750,
         "byproducts": {
             "Catalyst 3": 1
         },
         "industry": "Glass Furnace M",
         "input": {
-            "Pure Silver": 100,
-            "Pure Lithium": 50,
-            "Pure Silicon": 50,
-            "Pure Oxygen": 50,
+            "Pure Silver": 200,
+            "Pure Lithium": 100,
+            "Pure Silicon": 100,
+            "Pure Oxygen": 100,
             "Catalyst 3": 1,
             "Tier 3 Product Material Schematic Copy": 1
         },
@@ -2051,17 +2051,17 @@
         "tier": 4,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 18780,
         "byproducts": {
             "Catalyst 4": 1
         },
         "industry": "Glass Furnace M",
         "input": {
-            "Pure Gold": 100,
-            "Pure Silicon": 50,
-            "Pure Sodium": 50,
-            "Pure Oxygen": 50,
+            "Pure Gold": 200,
+            "Pure Silicon": 100,
+            "Pure Sodium": 100,
+            "Pure Oxygen": 100,
             "Catalyst 4": 1,
             "Tier 4 Product Material Schematic Copy": 1
         },
@@ -2071,17 +2071,17 @@
         "tier": 5,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 93780,
         "byproducts": {
             "Catalyst 5": 1
         },
         "industry": "Glass Furnace M",
         "input": {
-            "Pure Manganese": 100,
-            "Pure Calcium": 50,
-            "Pure Silicon": 50,
-            "Pure Oxygen": 50,
+            "Pure Manganese": 200,
+            "Pure Calcium": 100,
+            "Pure Silicon": 100,
+            "Pure Oxygen": 100,
             "Catalyst 5": 1,
             "Tier 5 Product Material Schematic Copy": 1
         },
@@ -2091,14 +2091,14 @@
         "tier": 1,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 150,
         "byproducts": {},
         "nanopack": true,
         "industry": "Chemical Industry M",
         "input": {
-            "Pure Carbon": 100,
-            "Pure Hydrogen": 50,
+            "Pure Carbon": 200,
+            "Pure Hydrogen": 100,
             "Tier 1 Product Material Schematic Copy": 1
         },
         "id": 2014531313
@@ -2107,14 +2107,14 @@
         "tier": 2,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 750,
         "byproducts": {},
         "industry": "Chemical Industry M",
         "input": {
-            "Pure Calcium": 100,
-            "Pure Carbon": 50,
-            "Pure Hydrogen": 50,
+            "Pure Calcium": 200,
+            "Pure Carbon": 100,
+            "Pure Hydrogen": 100,
             "Tier 2 Product Material Schematic Copy": 1
         },
         "id": 4103265826
@@ -2123,16 +2123,16 @@
         "tier": 3,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 3750,
         "byproducts": {
             "Catalyst 3": 1
         },
         "industry": "Chemical Industry M",
         "input": {
-            "Pure Sulfur": 100,
-            "Pure Carbon": 50,
-            "Pure Hydrogen": 50,
+            "Pure Sulfur": 200,
+            "Pure Carbon": 100,
+            "Pure Hydrogen": 100,
             "Catalyst 3": 1,
             "Tier 3 Product Material Schematic Copy": 1
         },
@@ -2142,16 +2142,16 @@
         "tier": 4,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 18780,
         "byproducts": {
             "Catalyst 4": 1
         },
         "industry": "Chemical Industry M",
         "input": {
-            "Pure Fluorine": 100,
-            "Pure Carbon": 50,
-            "Pure Hydrogen": 50,
+            "Pure Fluorine": 200,
+            "Pure Carbon": 100,
+            "Pure Hydrogen": 100,
             "Catalyst 4": 1,
             "Tier 4 Product Material Schematic Copy": 1
         },
@@ -2161,17 +2161,17 @@
         "tier": 5,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 93780,
         "byproducts": {
             "Catalyst 5": 1
         },
         "industry": "Chemical Industry M",
         "input": {
-            "Pure Vanadium": 100,
-            "Pure Sulfur": 50,
-            "Pure Carbon": 50,
-            "Pure Hydrogen": 50,
+            "Pure Vanadium": 200,
+            "Pure Sulfur": 100,
+            "Pure Carbon": 100,
+            "Pure Hydrogen": 100,
             "Catalyst 5": 1,
             "Tier 5 Product Material Schematic Copy": 1
         },
@@ -2181,14 +2181,14 @@
         "tier": 1,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 150,
         "byproducts": {},
         "nanopack": true,
         "industry": "Smelter M",
         "input": {
-            "Pure Aluminium": 100,
-            "Pure Silicon": 50,
+            "Pure Aluminium": 200,
+            "Pure Silicon": 100,
             "Tier 1 Product Material Schematic Copy": 1
         },
         "id": 2565702107
@@ -2197,14 +2197,14 @@
         "tier": 1,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 150,
         "byproducts": {},
         "nanopack": true,
         "industry": "Smelter M",
         "input": {
-            "Pure Iron": 100,
-            "Pure Carbon": 50,
+            "Pure Iron": 200,
+            "Pure Carbon": 100,
             "Tier 1 Product Material Schematic Copy": 1
         },
         "id": 3518490274
@@ -2213,14 +2213,14 @@
         "tier": 1,
         "type": "Product",
         "volume": 1,
-        "outputQuantity": 75,
+        "outputQuantity": 150,
         "time": 150,
         "byproducts": {},
         "nanopack": true,
         "industry": "Refiner M",
         "input": {
-            "Pure Carbon": 50,
-            "Pure Oxygen": 50,
+            "Pure Carbon": 100,
+            "Pure Oxygen": 100,
             "Tier 1 Product Material Schematic Copy": 1
         },
         "id": 770773323
@@ -2229,13 +2229,13 @@
         "tier": 1,
         "type": "Intermediary Part",
         "volume": 0.5,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 120,
         "byproducts": {},
         "nanopack": true,
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 10
+            "Al-Fe Alloy": 20
         },
         "id": 794666749
     },
@@ -2243,13 +2243,13 @@
         "tier": 2,
         "type": "Intermediary Part",
         "volume": 0.5,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 480,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 5,
-            "Calcium Reinforced Copper": 5
+            "Al-Fe Alloy": 10,
+            "Calcium Reinforced Copper": 10
         },
         "id": 794666748
     },
@@ -2257,14 +2257,14 @@
         "tier": 3,
         "type": "Intermediary Part",
         "volume": 0.5,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 1920,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 3,
-            "Calcium Reinforced Copper": 3,
-            "Cu-Ag Alloy": 4
+            "Al-Fe Alloy": 6,
+            "Calcium Reinforced Copper": 6,
+            "Cu-Ag Alloy": 8
         },
         "id": 794666751
     },
@@ -2272,13 +2272,13 @@
         "tier": 1,
         "type": "Intermediary Part",
         "volume": 0.8,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 120,
         "byproducts": {},
         "nanopack": true,
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 10
+            "Al-Fe Alloy": 20
         },
         "id": 2872711779
     },
@@ -2286,13 +2286,13 @@
         "tier": 2,
         "type": "Intermediary Part",
         "volume": 0.8,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 480,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 5,
-            "Calcium Reinforced Copper": 5
+            "Al-Fe Alloy": 10,
+            "Calcium Reinforced Copper": 10
         },
         "id": 2872711778
     },
@@ -2300,14 +2300,14 @@
         "tier": 3,
         "type": "Intermediary Part",
         "volume": 0.8,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 1920,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 3,
-            "Calcium Reinforced Copper": 3,
-            "Cu-Ag Alloy": 4
+            "Al-Fe Alloy": 6,
+            "Calcium Reinforced Copper": 6,
+            "Cu-Ag Alloy": 8
         },
         "id": 2872711781
     },
@@ -2315,13 +2315,13 @@
         "tier": 1,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 120,
         "byproducts": {},
         "nanopack": true,
         "industry": "3D Printer M",
         "input": {
-            "Polycarbonate Plastic": 10
+            "Polycarbonate Plastic": 20
         },
         "id": 466630565
     },
@@ -2329,13 +2329,13 @@
         "tier": 2,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 480,
         "byproducts": {},
         "industry": "3D Printer M",
         "input": {
-            "Polycarbonate Plastic": 5,
-            "Polycalcite Plastic": 5
+            "Polycarbonate Plastic": 10,
+            "Polycalcite Plastic": 10
         },
         "id": 466630564
     },
@@ -2343,14 +2343,14 @@
         "tier": 3,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 1920,
         "byproducts": {},
         "industry": "3D Printer M",
         "input": {
-            "Polycarbonate Plastic": 3,
-            "Polycalcite Plastic": 3,
-            "Polysulfide Plastic": 4
+            "Polycarbonate Plastic": 6,
+            "Polycalcite Plastic": 6,
+            "Polysulfide Plastic": 8
         },
         "id": 466630567
     },
@@ -2358,13 +2358,13 @@
         "tier": 1,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 120,
         "byproducts": {},
         "nanopack": true,
         "industry": "Glass Furnace M",
         "input": {
-            "Glass": 10
+            "Glass": 20
         },
         "id": 1234754162
     },
@@ -2372,13 +2372,13 @@
         "tier": 2,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 480,
         "byproducts": {},
         "industry": "Glass Furnace M",
         "input": {
-            "Glass": 5,
-            "Advanced Glass": 5
+            "Glass": 10,
+            "Advanced Glass": 10
         },
         "id": 1234754161
     },
@@ -2386,14 +2386,14 @@
         "tier": 3,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 1920,
         "byproducts": {},
         "industry": "Glass Furnace M",
         "input": {
-            "Glass": 3,
-            "Advanced Glass": 3,
-            "Ag-Li Reinforced Glass": 4
+            "Glass": 6,
+            "Advanced Glass": 6,
+            "Ag-Li Reinforced Glass": 8
         },
         "id": 1234754160
     },
@@ -2401,13 +2401,13 @@
         "tier": 1,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 240,
         "byproducts": {},
         "nanopack": true,
         "industry": "Metalwork Industry M",
         "input": {
-            "Silumin": 10
+            "Silumin": 20
         },
         "id": 1799107246
     },
@@ -2415,13 +2415,13 @@
         "tier": 2,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 480,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Silumin": 5,
-            "Duralumin": 5
+            "Silumin": 10,
+            "Duralumin": 10
         },
         "id": 1799107247
     },
@@ -2429,14 +2429,14 @@
         "tier": 3,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 1920,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Silumin": 3,
-            "Duralumin": 3,
-            "Al-Li Alloy": 4
+            "Silumin": 6,
+            "Duralumin": 6,
+            "Al-Li Alloy": 8
         },
         "id": 1799107244
     },
@@ -2444,13 +2444,13 @@
         "tier": 1,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 120,
         "byproducts": {},
         "nanopack": true,
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 10
+            "Steel": 20
         },
         "id": 3936127019
     },
@@ -2458,13 +2458,13 @@
         "tier": 2,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 480,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 5,
-            "Stainless Steel": 5
+            "Steel": 10,
+            "Stainless Steel": 10
         },
         "id": 3936127018
     },
@@ -2472,14 +2472,14 @@
         "tier": 3,
         "type": "Intermediary Part",
         "volume": 1,
-        "outputQuantity": 10,
+        "outputQuantity": 20,
         "time": 1920,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 3,
-            "Stainless Steel": 3,
-            "Inconel": 4
+            "Steel": 6,
+            "Stainless Steel": 6,
+            "Inconel": 8
         },
         "id": 3936127017
     },
@@ -2487,14 +2487,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 4.6,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "Glass Furnace M",
         "input": {
-            "Glass": 18,
-            "Basic Connector": 12
+            "Glass": 36,
+            "Basic Connector": 24
         },
         "id": 3661595538
     },
@@ -2502,14 +2502,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 4.6,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "Glass Furnace M",
         "input": {
-            "Glass": 2,
-            "Basic Connector": 4,
-            "Advanced Glass": 4
+            "Glass": 4,
+            "Basic Connector": 8,
+            "Advanced Glass": 8
         },
         "id": 3661595539
     },
@@ -2517,16 +2517,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 4.6,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "Glass Furnace M",
         "input": {
-            "Glass": 2,
-            "Basic Connector": 2,
-            "Advanced Glass": 2,
-            "Uncommon Connector": 2,
-            "Ag-Li Reinforced Glass": 2
+            "Glass": 4,
+            "Basic Connector": 4,
+            "Advanced Glass": 4,
+            "Uncommon Connector": 4,
+            "Ag-Li Reinforced Glass": 4
         },
         "id": 3661595540
     },
@@ -2534,16 +2534,16 @@
         "tier": 4,
         "type": "Complex Part",
         "volume": 4.6,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3840,
         "byproducts": {},
         "industry": "Glass Furnace M",
         "input": {
-            "Basic Connector": 1,
-            "Advanced Glass": 2,
-            "Uncommon Connector": 3,
-            "Ag-Li Reinforced Glass": 2,
-            "Gold-Coated Glass": 2
+            "Basic Connector": 2,
+            "Advanced Glass": 4,
+            "Uncommon Connector": 6,
+            "Ag-Li Reinforced Glass": 4,
+            "Gold-Coated Glass": 4
         },
         "id": 3661595541
     },
@@ -2551,14 +2551,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "Metalwork Industry M",
         "input": {
-            "Silumin": 18,
-            "Basic Screw": 12
+            "Silumin": 36,
+            "Basic Screw": 24
         },
         "id": 2660328728
     },
@@ -2566,14 +2566,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Silumin": 2,
-            "Basic Screw": 4,
-            "Duralumin": 4
+            "Silumin": 4,
+            "Basic Screw": 8,
+            "Duralumin": 8
         },
         "id": 2660328729
     },
@@ -2581,16 +2581,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Silumin": 2,
-            "Basic Screw": 2,
-            "Duralumin": 2,
-            "Uncommon Screw": 2,
-            "Al-Li Alloy": 2
+            "Silumin": 4,
+            "Basic Screw": 4,
+            "Duralumin": 4,
+            "Uncommon Screw": 4,
+            "Al-Li Alloy": 4
         },
         "id": 2660328734
     },
@@ -2598,16 +2598,16 @@
         "tier": 4,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3840,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Basic Screw": 1,
-            "Duralumin": 2,
-            "Uncommon Screw": 3,
-            "Al-Li Alloy": 2,
-            "Sc-Al Alloy": 2
+            "Basic Screw": 2,
+            "Duralumin": 4,
+            "Uncommon Screw": 6,
+            "Al-Li Alloy": 4,
+            "Sc-Al Alloy": 4
         },
         "id": 2660328735
     },
@@ -2615,17 +2615,17 @@
         "tier": 5,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 15360,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Basic Screw": 1,
+            "Basic Screw": 2,
             "Uncommon Screw": 1,
-            "Al-Li Alloy": 2,
-            "Advanced Screw": 2,
-            "Sc-Al Alloy": 2,
-            "Grade 5 Titanium Alloy": 2
+            "Al-Li Alloy": 4,
+            "Advanced Screw": 4,
+            "Sc-Al Alloy": 4,
+            "Grade 5 Titanium Alloy": 4
         },
         "id": 2660328732
     },
@@ -2633,14 +2633,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 4,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "Electronics Industry M",
         "input": {
-            "Polycarbonate Plastic": 18,
-            "Basic Component": 12
+            "Polycarbonate Plastic": 36,
+            "Basic Component": 24
         },
         "id": 1297540454
     },
@@ -2648,14 +2648,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 4,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Polycarbonate Plastic": 2,
-            "Basic Component": 4,
-            "Polycalcite Plastic": 4
+            "Polycarbonate Plastic": 4,
+            "Basic Component": 8,
+            "Polycalcite Plastic": 8
         },
         "id": 1297540453
     },
@@ -2663,16 +2663,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 4,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Polycarbonate Plastic": 2,
-            "Basic Component": 2,
-            "Polycalcite Plastic": 2,
-            "Uncommon Component": 2,
-            "Polysulfide Plastic": 2
+            "Polycarbonate Plastic": 4,
+            "Basic Component": 4,
+            "Polycalcite Plastic": 4,
+            "Uncommon Component": 4,
+            "Polysulfide Plastic": 4
         },
         "id": 1297540452
     },
@@ -2680,16 +2680,16 @@
         "tier": 4,
         "type": "Complex Part",
         "volume": 4,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3840,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Basic Component": 1,
-            "Polycalcite Plastic": 2,
-            "Uncommon Component": 3,
-            "Polysulfide Plastic": 2,
-            "Fluoropolymer": 2
+            "Basic Component": 2,
+            "Polycalcite Plastic": 4,
+            "Uncommon Component": 6,
+            "Polysulfide Plastic": 4,
+            "Fluoropolymer": 4
         },
         "id": 1297540451
     },
@@ -2697,17 +2697,17 @@
         "tier": 5,
         "type": "Complex Part",
         "volume": 4,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 15360,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Basic Component": 1,
-            "Uncommon Component": 1,
-            "Polysulfide Plastic": 2,
-            "Advanced Component": 2,
-            "Fluoropolymer": 2,
-            "Vanamer": 2
+            "Basic Component": 2,
+            "Uncommon Component": 2,
+            "Polysulfide Plastic": 4,
+            "Advanced Component": 4,
+            "Fluoropolymer": 4,
+            "Vanamer": 4
         },
         "id": 1297540450
     },
@@ -2715,14 +2715,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 4.6,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "Chemical Industry M",
         "input": {
-            "Polycarbonate Plastic": 18,
-            "Basic Connector": 12
+            "Polycarbonate Plastic": 36,
+            "Basic Connector": 24
         },
         "id": 2541811486
     },
@@ -2730,14 +2730,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 4.6,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "Chemical Industry M",
         "input": {
-            "Polycarbonate Plastic": 2,
-            "Basic Connector": 4,
-            "Polycalcite Plastic": 4
+            "Polycarbonate Plastic": 4,
+            "Basic Connector": 8,
+            "Polycalcite Plastic": 8
         },
         "id": 2541811485
     },
@@ -2745,16 +2745,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 4.6,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "Chemical Industry M",
         "input": {
-            "Polycarbonate Plastic": 2,
-            "Basic Connector": 2,
-            "Polycalcite Plastic": 2,
-            "Uncommon Connector": 2,
-            "Polysulfide Plastic": 2
+            "Polycarbonate Plastic": 4,
+            "Basic Connector": 4,
+            "Polycalcite Plastic": 4,
+            "Uncommon Connector": 4,
+            "Polysulfide Plastic": 4
         },
         "id": 2541811484
     },
@@ -2762,14 +2762,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 18,
-            "Basic Pipe": 12
+            "Steel": 36,
+            "Basic Pipe": 24
         },
         "id": 1331181119
     },
@@ -2777,14 +2777,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 2,
-            "Basic Pipe": 4,
-            "Stainless Steel": 4
+            "Steel": 4,
+            "Basic Pipe": 8,
+            "Stainless Steel": 8
         },
         "id": 1331181118
     },
@@ -2792,16 +2792,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 2,
-            "Basic Pipe": 2,
-            "Stainless Steel": 2,
-            "Uncommon Pipe": 2,
-            "Inconel": 2
+            "Steel": 4,
+            "Basic Pipe": 4,
+            "Stainless Steel": 4,
+            "Uncommon Pipe": 4,
+            "Inconel": 4
         },
         "id": 1331181089
     },
@@ -2809,16 +2809,16 @@
         "tier": 4,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3840,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Basic Pipe": 1,
-            "Stainless Steel": 2,
-            "Uncommon Pipe": 3,
-            "Inconel": 2,
-            "Maraging Steel": 2
+            "Basic Pipe": 2,
+            "Stainless Steel": 4,
+            "Uncommon Pipe": 6,
+            "Inconel": 4,
+            "Maraging Steel": 4
         },
         "id": 1331181088
     },
@@ -2826,17 +2826,17 @@
         "tier": 5,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 15360,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Basic Pipe": 1,
-            "Uncommon Pipe": 1,
-            "Inconel": 2,
-            "Advanced Pipe": 2,
-            "Maraging Steel": 2,
-            "Mangalloy": 2
+            "Basic Pipe": 2,
+            "Uncommon Pipe": 2,
+            "Inconel": 4,
+            "Advanced Pipe": 4,
+            "Maraging Steel": 4,
+            "Mangalloy": 4
         },
         "id": 1331181091
     },
@@ -2844,14 +2844,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "3D Printer M",
         "input": {
-            "Polycarbonate Plastic": 18,
-            "Basic Screw": 12
+            "Polycarbonate Plastic": 36,
+            "Basic Screw": 24
         },
         "id": 1971447072
     },
@@ -2859,15 +2859,15 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "nanopack": true,
         "industry": "3D Printer M",
         "input": {
-            "Polycarbonate Plastic": 2,
-            "Basic Screw": 4,
-            "Polycalcite Plastic": 4
+            "Polycarbonate Plastic": 4,
+            "Basic Screw": 8,
+            "Polycalcite Plastic": 8
         },
         "id": 1971447073
     },
@@ -2875,16 +2875,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "3D Printer M",
         "input": {
-            "Polycarbonate Plastic": 2,
-            "Basic Screw": 2,
-            "Polycalcite Plastic": 2,
-            "Uncommon Screw": 2,
-            "Polysulfide Plastic": 2
+            "Polycarbonate Plastic": 4,
+            "Basic Screw": 4,
+            "Polycalcite Plastic": 4,
+            "Uncommon Screw": 4,
+            "Polysulfide Plastic": 4
         },
         "id": 1971447078
     },
@@ -2892,16 +2892,16 @@
         "tier": 4,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3840,
         "byproducts": {},
         "industry": "3D Printer M",
         "input": {
-            "Basic Screw": 1,
-            "Polycalcite Plastic": 2,
-            "Uncommon Screw": 3,
-            "Polysulfide Plastic": 2,
-            "Fluoropolymer": 2
+            "Basic Screw": 2,
+            "Polycalcite Plastic": 4,
+            "Uncommon Screw": 6,
+            "Polysulfide Plastic": 4,
+            "Fluoropolymer": 4
         },
         "id": 1971447079
     },
@@ -2909,17 +2909,17 @@
         "tier": 5,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 15360,
         "byproducts": {},
         "industry": "3D Printer M",
         "input": {
-            "Basic Screw": 1,
-            "Uncommon Screw": 1,
-            "Polysulfide Plastic": 2,
-            "Advanced Screw": 2,
-            "Fluoropolymer": 2,
-            "Vanamer": 2
+            "Basic Screw": 2,
+            "Uncommon Screw": 2,
+            "Polysulfide Plastic": 4,
+            "Advanced Screw": 4,
+            "Fluoropolymer": 4,
+            "Vanamer": 4
         },
         "id": 1971447076
     },
@@ -2927,14 +2927,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 7.36,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 18,
-            "Basic Connector": 12
+            "Steel": 36,
+            "Basic Connector": 24
         },
         "id": 1246524878
     },
@@ -2942,14 +2942,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 7.36,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 2,
-            "Basic Connector": 4,
-            "Stainless Steel": 4
+            "Steel": 4,
+            "Basic Connector": 8,
+            "Stainless Steel": 8
         },
         "id": 1246524879
     },
@@ -2957,16 +2957,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 7.36,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 2,
-            "Basic Connector": 2,
-            "Stainless Steel": 2,
-            "Uncommon Connector": 2,
-            "Inconel": 2
+            "Steel": 4,
+            "Basic Connector": 4,
+            "Stainless Steel": 4,
+            "Uncommon Connector": 4,
+            "Inconel": 4
         },
         "id": 1246524876
     },
@@ -2974,16 +2974,16 @@
         "tier": 4,
         "type": "Complex Part",
         "volume": 7.36,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3840,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Basic Connector": 1,
-            "Stainless Steel": 2,
-            "Uncommon Connector": 3,
-            "Inconel": 2,
-            "Maraging Steel": 2
+            "Basic Connector": 2,
+            "Stainless Steel": 4,
+            "Uncommon Connector": 6,
+            "Inconel": 4,
+            "Maraging Steel": 4
         },
         "id": 1246524877
     },
@@ -2991,17 +2991,17 @@
         "tier": 5,
         "type": "Complex Part",
         "volume": 7.36,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 15360,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Basic Connector": 1,
-            "Uncommon Connector": 1,
-            "Inconel": 2,
-            "Advanced Connector": 2,
-            "Maraging Steel": 2,
-            "Mangalloy": 2
+            "Basic Connector": 2,
+            "Uncommon Connector": 2,
+            "Inconel": 4,
+            "Advanced Connector": 4,
+            "Maraging Steel": 4,
+            "Mangalloy": 4
         },
         "id": 1246524866
     },
@@ -3009,14 +3009,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "Glass Furnace M",
         "input": {
-            "Glass": 18,
-            "Basic Fixation": 12
+            "Glass": 36,
+            "Basic Fixation": 24
         },
         "id": 3739200051
     },
@@ -3024,14 +3024,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "Glass Furnace M",
         "input": {
-            "Glass": 2,
-            "Basic Fixation": 4,
-            "Advanced Glass": 4
+            "Glass": 4,
+            "Basic Fixation": 8,
+            "Advanced Glass": 8
         },
         "id": 3739200050
     },
@@ -3039,16 +3039,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "Glass Furnace M",
         "input": {
-            "Glass": 2,
-            "Basic Fixation": 2,
-            "Advanced Glass": 2,
-            "Uncommon Fixation": 2,
-            "Ag-Li Reinforced Glass": 2
+            "Glass": 4,
+            "Basic Fixation": 4,
+            "Advanced Glass": 4,
+            "Uncommon Fixation": 4,
+            "Ag-Li Reinforced Glass": 4
         },
         "id": 3739200049
     },
@@ -3056,16 +3056,16 @@
         "tier": 4,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3840,
         "byproducts": {},
         "industry": "Glass Furnace M",
         "input": {
-            "Basic Fixation": 1,
-            "Advanced Glass": 2,
-            "Uncommon Fixation": 3,
-            "Ag-Li Reinforced Glass": 2,
-            "Gold-Coated Glass": 2
+            "Basic Fixation": 2,
+            "Advanced Glass": 4,
+            "Uncommon Fixation": 6,
+            "Ag-Li Reinforced Glass": 4,
+            "Gold-Coated Glass": 4
         },
         "id": 3739200048
     },
@@ -3073,17 +3073,17 @@
         "tier": 5,
         "type": "Complex Part",
         "volume": 10,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 15360,
         "byproducts": {},
         "industry": "Glass Furnace M",
         "input": {
-            "Basic Fixation": 1,
-            "Uncommon Fixation": 1,
-            "Ag-Li Reinforced Glass": 2,
-            "Advanced Fixation": 2,
-            "Gold-Coated Glass": 2,
-            "Manganese Reinforced Glass": 2
+            "Basic Fixation": 2,
+            "Uncommon Fixation": 2,
+            "Ag-Li Reinforced Glass": 4,
+            "Advanced Fixation": 4,
+            "Gold-Coated Glass": 4,
+            "Manganese Reinforced Glass": 4
         },
         "id": 3739200055
     },
@@ -3091,14 +3091,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 9.2,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 18,
-            "Basic Connector": 12
+            "Al-Fe Alloy": 36,
+            "Basic Connector": 24
         },
         "id": 527681755
     },
@@ -3106,14 +3106,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 9.2,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 2,
-            "Basic Connector": 4,
-            "Calcium Reinforced Copper": 4
+            "Al-Fe Alloy": 4,
+            "Basic Connector": 8,
+            "Calcium Reinforced Copper": 8
         },
         "id": 527681752
     },
@@ -3121,16 +3121,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 9.2,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 2,
-            "Basic Connector": 2,
-            "Calcium Reinforced Copper": 2,
-            "Uncommon Connector": 2,
-            "Cu-Ag Alloy": 2
+            "Al-Fe Alloy": 4,
+            "Basic Connector": 4,
+            "Calcium Reinforced Copper": 4,
+            "Uncommon Connector": 4,
+            "Cu-Ag Alloy": 4
         },
         "id": 527681753
     },
@@ -3138,16 +3138,16 @@
         "tier": 4,
         "type": "Complex Part",
         "volume": 9.2,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3840,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Basic Connector": 1,
-            "Calcium Reinforced Copper": 2,
-            "Uncommon Connector": 3,
-            "Cu-Ag Alloy": 2,
-            "Red Gold": 2
+            "Basic Connector": 2,
+            "Calcium Reinforced Copper": 4,
+            "Uncommon Connector": 6,
+            "Cu-Ag Alloy": 4,
+            "Red Gold": 4
         },
         "id": 527681750
     },
@@ -3155,17 +3155,17 @@
         "tier": 5,
         "type": "Complex Part",
         "volume": 9.2,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 15360,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Basic Connector": 1,
-            "Uncommon Connector": 1,
-            "Cu-Ag Alloy": 2,
-            "Advanced Connector": 2,
-            "Red Gold": 2,
-            "Ti-Nb Supraconductor": 2
+            "Basic Connector": 2,
+            "Uncommon Connector": 2,
+            "Cu-Ag Alloy": 4,
+            "Advanced Connector": 4,
+            "Red Gold": 4,
+            "Ti-Nb Supraconductor": 4
         },
         "id": 527681751
     },
@@ -3173,14 +3173,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 5,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 18,
-            "Basic Fixation": 12
+            "Al-Fe Alloy": 36,
+            "Basic Fixation": 24
         },
         "id": 3808417022
     },
@@ -3188,14 +3188,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 2,
-            "Basic Fixation": 4,
-            "Calcium Reinforced Copper": 4
+            "Al-Fe Alloy": 4,
+            "Basic Fixation": 8,
+            "Calcium Reinforced Copper": 8
         },
         "id": 3808417021
     },
@@ -3203,16 +3203,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 2,
-            "Basic Fixation": 2,
-            "Calcium Reinforced Copper": 2,
-            "Uncommon Fixation": 2,
-            "Cu-Ag Alloy": 2
+            "Al-Fe Alloy": 4,
+            "Basic Fixation": 4,
+            "Calcium Reinforced Copper": 4,
+            "Uncommon Fixation": 4,
+            "Cu-Ag Alloy": 4
         },
         "id": 3808417020
     },
@@ -3220,16 +3220,16 @@
         "tier": 4,
         "type": "Complex Part",
         "volume": 5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3840,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Basic Fixation": 1,
-            "Calcium Reinforced Copper": 2,
-            "Uncommon Fixation": 2,
-            "Cu-Ag Alloy": 2,
-            "Red Gold": 2
+            "Basic Fixation": 2,
+            "Calcium Reinforced Copper": 4,
+            "Uncommon Fixation": 4,
+            "Cu-Ag Alloy": 4,
+            "Red Gold": 4
         },
         "id": 3840
     },
@@ -3237,14 +3237,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 5,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "3D Printer M",
         "input": {
-            "Polycarbonate Plastic": 18,
-            "Basic LED": 12
+            "Polycarbonate Plastic": 36,
+            "Basic LED": 24
         },
         "id": 850241766
     },
@@ -3252,14 +3252,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "3D Printer M",
         "input": {
-            "Polycarbonate Plastic": 2,
-            "Basic LED": 4,
-            "Polycalcite Plastic": 4
+            "Polycarbonate Plastic": 4,
+            "Basic LED": 8,
+            "Polycalcite Plastic": 8
         },
         "id": 850241765
     },
@@ -3267,16 +3267,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "3D Printer M",
         "input": {
-            "Polycarbonate Plastic": 2,
-            "Basic LED": 2,
-            "Polycalcite Plastic": 2,
-            "Uncommon LED": 2,
-            "Polysulfide Plastic": 2
+            "Polycarbonate Plastic": 4,
+            "Basic LED": 4,
+            "Polycalcite Plastic": 4,
+            "Uncommon LED": 4,
+            "Polysulfide Plastic": 4
         },
         "id": 850241764
     },
@@ -3284,16 +3284,16 @@
         "tier": 4,
         "type": "Complex Part",
         "volume": 5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3840,
         "byproducts": {},
         "industry": "3D Printer M",
         "input": {
-            "Basic LED": 1,
-            "Polycalcite Plastic": 2,
-            "Uncommon LED": 3,
-            "Polysulfide Plastic": 2,
-            "Fluoropolymer": 2
+            "Basic LED": 2,
+            "Polycalcite Plastic": 4,
+            "Uncommon LED": 6,
+            "Polysulfide Plastic": 4,
+            "Fluoropolymer": 4
         },
         "id": 850241763
     },
@@ -3301,17 +3301,17 @@
         "tier": 5,
         "type": "Complex Part",
         "volume": 5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 15360,
         "byproducts": {},
         "industry": "3D Printer M",
         "input": {
-            "Basic LED": 1,
-            "Uncommon LED": 1,
-            "Polysulfide Plastic": 2,
-            "Advanced LED": 2,
-            "Fluoropolymer": 2,
-            "Vanamer": 2
+            "Basic LED": 2,
+            "Uncommon LED": 2,
+            "Polysulfide Plastic": 4,
+            "Advanced LED": 4,
+            "Fluoropolymer": 4,
+            "Vanamer": 4
         },
         "id": 850241762
     },
@@ -3319,14 +3319,14 @@
         "tier": 1,
         "type": "Complex Part",
         "volume": 4,
-        "outputQuantity": 3,
+        "outputQuantity": 6,
         "time": 180,
         "byproducts": {},
         "nanopack": true,
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 18,
-            "Basic Component": 12
+            "Steel": 36,
+            "Basic Component": 24
         },
         "id": 3640212318
     },
@@ -3334,14 +3334,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 4,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 2,
-            "Basic Component": 4,
-            "Stainless Steel": 4
+            "Steel": 4,
+            "Basic Component": 8,
+            "Stainless Steel": 8
         },
         "id": 3640212313
     },
@@ -3349,16 +3349,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 4,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 2,
-            "Basic Component": 2,
-            "Stainless Steel": 2,
-            "Uncommon Component": 2,
-            "Inconel": 2
+            "Steel": 4,
+            "Basic Component": 4,
+            "Stainless Steel": 4,
+            "Uncommon Component": 4,
+            "Inconel": 4
         },
         "id": 3640212312
     },
@@ -3366,16 +3366,16 @@
         "tier": 4,
         "type": "Complex Part",
         "volume": 4,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3840,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Basic Component": 1,
-            "Stainless Steel": 2,
-            "Uncommon Component": 3,
-            "Inconel": 2,
-            "Maraging Steel": 2
+            "Basic Component": 2,
+            "Stainless Steel": 4,
+            "Uncommon Component": 6,
+            "Inconel": 4,
+            "Maraging Steel": 4
         },
         "id": 3640212315
     },
@@ -3383,17 +3383,17 @@
         "tier": 5,
         "type": "Complex Part",
         "volume": 4,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 15360,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Basic Component": 1,
-            "Uncommon Component": 1,
-            "Inconel": 2,
-            "Advanced Component": 2,
-            "Maraging Steel": 2,
-            "Mangalloy": 2
+            "Basic Component": 2,
+            "Uncommon Component": 2,
+            "Inconel": 4,
+            "Advanced Component": 4,
+            "Maraging Steel": 4,
+            "Mangalloy": 4
         },
         "id": 3640212314
     },
@@ -3401,14 +3401,14 @@
         "tier": 2,
         "type": "Complex Part",
         "volume": 5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 240,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 2,
-            "Basic Pipe": 4,
-            "Stainless Steel": 4
+            "Steel": 4,
+            "Basic Pipe": 8,
+            "Stainless Steel": 8
         },
         "id": 2599686738
     },
@@ -3416,16 +3416,16 @@
         "tier": 3,
         "type": "Complex Part",
         "volume": 5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 960,
         "byproducts": {},
         "industry": "Metalwork Industry M",
         "input": {
-            "Steel": 2,
-            "Basic Pipe": 2,
-            "Stainless Steel": 2,
-            "Uncommon Pipe": 2,
-            "Inconel": 2
+            "Steel": 4,
+            "Basic Pipe": 4,
+            "Stainless Steel": 4,
+            "Uncommon Pipe": 4,
+            "Inconel": 4
         },
         "id": 2599686739
     },
@@ -3433,18 +3433,18 @@
         "tier": 3,
         "type": "Exceptional Part",
         "volume": 20,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3750,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Silumin": 5,
-            "Basic Component": 10,
-            "Basic Singularity Container": 3,
-            "Duralumin": 5,
-            "Uncommon Singularity Container": 1,
-            "Al-Li Alloy": 5,
-            "Advanced Singularity Container": 1
+            "Silumin": 10,
+            "Basic Component": 20,
+            "Basic Singularity Container": 6,
+            "Duralumin": 10,
+            "Uncommon Singularity Container": 2,
+            "Al-Li Alloy": 10,
+            "Advanced Singularity Container": 2
         },
         "id": 2999509666
     },
@@ -3452,21 +3452,21 @@
         "tier": 4,
         "type": "Exceptional Part",
         "volume": 22.5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 18780,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Silumin": 5,
-            "Basic Component": 5,
-            "Basic Singularity Container": 2,
-            "Duralumin": 5,
-            "Uncommon Component": 5,
-            "Uncommon Singularity Container": 1,
-            "Al-Li Alloy": 5,
-            "Advanced Singularity Container": 1,
-            "Sc-Al Alloy": 5,
-            "Rare Singularity Container": 1
+            "Silumin": 10,
+            "Basic Component": 10,
+            "Basic Singularity Container": 4,
+            "Duralumin": 10,
+            "Uncommon Component": 10,
+            "Uncommon Singularity Container": 2,
+            "Al-Li Alloy": 10,
+            "Advanced Singularity Container": 2,
+            "Sc-Al Alloy": 10,
+            "Rare Singularity Container": 2
         },
         "id": 2999509693
     },
@@ -3474,23 +3474,23 @@
         "tier": 5,
         "type": "Exceptional Part",
         "volume": 25,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 93780,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Silumin": 5,
-            "Basic Singularity Container": 1,
-            "Duralumin": 5,
-            "Uncommon Component": 5,
-            "Uncommon Singularity Container": 1,
-            "Al-Li Alloy": 5,
-            "Advanced Component": 5,
-            "Advanced Singularity Container": 1,
-            "Sc-Al Alloy": 5,
-            "Rare Singularity Container": 1,
-            "Grade 5 Titanium Alloy": 5,
-            "Exotic Singularity Container": 1
+            "Silumin": 10,
+            "Basic Singularity Container": 2,
+            "Duralumin": 10,
+            "Uncommon Component": 10,
+            "Uncommon Singularity Container": 2,
+            "Al-Li Alloy": 10,
+            "Advanced Component": 10,
+            "Advanced Singularity Container": 2,
+            "Sc-Al Alloy": 10,
+            "Rare Singularity Container": 2,
+            "Grade 5 Titanium Alloy": 10,
+            "Exotic Singularity Container": 2
         },
         "id": 2999509692
     },
@@ -3498,18 +3498,18 @@
         "tier": 3,
         "type": "Exceptional Part",
         "volume": 25,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3750,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Polycarbonate Plastic": 5,
-            "Basic LED": 10,
-            "Basic Quantum Core": 3,
-            "Polycalcite Plastic": 5,
-            "Uncommon Quantum Core": 1,
-            "Polysulfide Plastic": 5,
-            "Advanced Quantum Core": 1
+            "Polycarbonate Plastic": 10,
+            "Basic LED": 20,
+            "Basic Quantum Core": 6,
+            "Polycalcite Plastic": 10,
+            "Uncommon Quantum Core": 2,
+            "Polysulfide Plastic": 10,
+            "Advanced Quantum Core": 2
         },
         "id": 2601646636
     },
@@ -3517,21 +3517,21 @@
         "tier": 4,
         "type": "Exceptional Part",
         "volume": 27.5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 11820,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Polycarbonate Plastic": 5,
-            "Basic LED": 5,
-            "Basic Quantum Core": 2,
-            "Polycalcite Plastic": 5,
-            "Uncommon LED": 5,
-            "Uncommon Quantum Core": 1,
-            "Polysulfide Plastic": 5,
-            "Advanced Quantum Core": 1,
-            "Fluoropolymer": 5,
-            "Rare Quantum Core": 1
+            "Polycarbonate Plastic": 10,
+            "Basic LED": 10,
+            "Basic Quantum Core": 4,
+            "Polycalcite Plastic": 10,
+            "Uncommon LED": 10,
+            "Uncommon Quantum Core": 2,
+            "Polysulfide Plastic": 10,
+            "Advanced Quantum Core": 2,
+            "Fluoropolymer": 10,
+            "Rare Quantum Core": 2
         },
         "id": 2601646635
     },
@@ -3539,23 +3539,23 @@
         "tier": 5,
         "type": "Exceptional Part",
         "volume": 30,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 93780,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Polycarbonate Plastic": 5,
-            "Basic Quantum Core": 1,
-            "Polycalcite Plastic": 5,
-            "Uncommon LED": 5,
-            "Uncommon Quantum Core": 1,
-            "Polysulfide Plastic": 5,
-            "Advanced LED": 5,
-            "Advanced Quantum Core": 1,
-            "Fluoropolymer": 5,
-            "Rare Quantum Core": 1,
-            "Vanamer": 5,
-            "Exotic Quantum Core": 1
+            "Polycarbonate Plastic": 10,
+            "Basic Quantum Core": 2,
+            "Polycalcite Plastic": 10,
+            "Uncommon LED": 10,
+            "Uncommon Quantum Core": 2,
+            "Polysulfide Plastic": 10,
+            "Advanced LED": 10,
+            "Advanced Quantum Core": 2,
+            "Fluoropolymer": 10,
+            "Rare Quantum Core": 2,
+            "Vanamer": 10,
+            "Exotic Quantum Core": 2
         },
         "id": 2601646634
     },
@@ -3563,18 +3563,18 @@
         "tier": 3,
         "type": "Exceptional Part",
         "volume": 25,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3750,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Silumin": 5,
-            "Basic LED": 10,
-            "Basic Quantum Core": 3,
-            "Duralumin": 5,
-            "Uncommon Quantum Core": 1,
-            "Al-Li Alloy": 5,
-            "Advanced Quantum Core": 1
+            "Silumin": 10,
+            "Basic LED": 20,
+            "Basic Quantum Core": 6,
+            "Duralumin": 10,
+            "Uncommon Quantum Core": 2,
+            "Al-Li Alloy": 10,
+            "Advanced Quantum Core": 2
         },
         "id": 984088007
     },
@@ -3582,21 +3582,21 @@
         "tier": 4,
         "type": "Exceptional Part",
         "volume": 27.5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 18780,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Silumin": 5,
-            "Basic LED": 5,
-            "Basic Quantum Core": 2,
-            "Duralumin": 5,
-            "Uncommon LED": 5,
-            "Uncommon Quantum Core": 1,
-            "Al-Li Alloy": 5,
-            "Advanced Quantum Core": 1,
-            "Sc-Al Alloy": 5,
-            "Rare Quantum Core": 1
+            "Silumin": 10,
+            "Basic LED": 10,
+            "Basic Quantum Core": 4,
+            "Duralumin": 10,
+            "Uncommon LED": 10,
+            "Uncommon Quantum Core": 2,
+            "Al-Li Alloy": 10,
+            "Advanced Quantum Core": 2,
+            "Sc-Al Alloy": 10,
+            "Rare Quantum Core": 2
         },
         "id": 984088006
     },
@@ -3604,23 +3604,23 @@
         "tier": 5,
         "type": "Exceptional Part",
         "volume": 30,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 93780,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Silumin": 5,
-            "Basic Quantum Core": 1,
-            "Duralumin": 5,
-            "Uncommon LED": 5,
-            "Uncommon Quantum Core": 1,
-            "Al-Li Alloy": 5,
-            "Advanced LED": 5,
-            "Advanced Quantum Core": 1,
-            "Sc-Al Alloy": 5,
-            "Rare Quantum Core": 1,
-            "Grade 5 Titanium Alloy": 5,
-            "Exotic Quantum Core": 1
+            "Silumin": 10,
+            "Basic Quantum Core": 2,
+            "Duralumin": 10,
+            "Uncommon LED": 10,
+            "Uncommon Quantum Core": 2,
+            "Al-Li Alloy": 10,
+            "Advanced LED": 10,
+            "Advanced Quantum Core": 2,
+            "Sc-Al Alloy": 10,
+            "Rare Quantum Core": 2,
+            "Grade 5 Titanium Alloy": 10,
+            "Exotic Quantum Core": 2
         },
         "id": 984088025
     },
@@ -3628,18 +3628,18 @@
         "tier": 3,
         "type": "Exceptional Part",
         "volume": 21.5,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 3750,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 5,
-            "Basic Component": 10,
-            "Basic Antimatter Capsule": 3,
-            "Calcium Reinforced Copper": 5,
-            "Uncommon Antimatter Capsule": 1,
-            "Cu-Ag Alloy": 5,
-            "Advanced Antimatter Capsule": 1
+            "Al-Fe Alloy": 10,
+            "Basic Component": 20,
+            "Basic Antimatter Capsule": 6,
+            "Calcium Reinforced Copper": 10,
+            "Uncommon Antimatter Capsule": 2,
+            "Cu-Ag Alloy": 10,
+            "Advanced Antimatter Capsule": 2
         },
         "id": 375744325
     },
@@ -3647,21 +3647,21 @@
         "tier": 4,
         "type": "Exceptional Part",
         "volume": 24,
-        "outputQuantity": 1,
+        "outputQuantity": 2,
         "time": 18780,
         "byproducts": {},
         "industry": "Electronics Industry M",
         "input": {
-            "Al-Fe Alloy": 5,
-            "Basic Component": 5,
-            "Basic Antimatter Capsule": 2,
-            "Calcium Reinforced Copper": 5,
-            "Uncommon Component": 5,
-            "Uncommon Antimatter Capsule": 1,
-            "Cu-Ag Alloy": 5,
-            "Advanced Antimatter Capsule": 1,
-            "Red Gold": 5,
-            "Rare Antimatter Capsule": 1
+            "Al-Fe Alloy": 10,
+            "Basic Component": 10,
+            "Basic Antimatter Capsule": 4,
+            "Calcium Reinforced Copper": 10,
+            "Uncommon Component": 10,
+            "Uncommon Antimatter Capsule": 2,
+            "Cu-Ag Alloy": 10,
+            "Advanced Antimatter Capsule": 2,
+            "Red Gold": 10,
+            "Rare Antimatter Capsule": 2
         },
         "id": 375744324
     },
