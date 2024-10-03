@@ -434,11 +434,11 @@ export class MergedNodeInstruction {
 
         // Loop over output links
         for (const [output_i, output] of outputs.entries()) {
-            x = start_x + 10 * SIZE
+            x = start_x + 5 * SIZE
             y =
                 start_y +
                 relayHeight / 2.0 -
-                SIZE / 4 +
+                SIZE / 8 +
                 LINKSPACING * (output_i - (outputs.length - 1) / 2)
 
             // Add output link
