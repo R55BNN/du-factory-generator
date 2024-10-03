@@ -701,7 +701,7 @@ export class NodeInstruction {
                 )
                 elements.push(element)
             }
-            relayStart_y += 2.5 * SIZE
+            relayStart_y += 5 * SIZE
         }
         return elements
     }
