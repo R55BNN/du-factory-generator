@@ -97,7 +97,7 @@ export const SIZE = 60
 export const FONTSIZE = 10
 
 // Spacing between link lines
-export const LINKSPACING = 1.1 * FONTSIZE
+export const LINKSPACING = 2.2 * FONTSIZE
 
 /**
  * Generate string representation of required container size(s)
