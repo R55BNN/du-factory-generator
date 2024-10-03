@@ -682,7 +682,7 @@ export class NodeInstruction {
 
             // Loop over output links
             for (const [output_i, output] of outputs.entries()) {
-                x = start_x + 9 * SIZE
+                x = start_x + 18 * SIZE
                 y = relayStart_y + SIZE + LINKSPACING * (output_i - (outputs.length - 1) / 2)
 
                 // Add output link
