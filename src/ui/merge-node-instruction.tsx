@@ -437,7 +437,7 @@ export class MergedNodeInstruction {
             x = start_x + 5 * SIZE
             y =
                 start_y +
-                relayHeight / 4.0 -
+                relayHeight / 8.0 -
                 SIZE / 4 +
                 LINKSPACING * (output_i - (outputs.length - 1) / 2)
 
