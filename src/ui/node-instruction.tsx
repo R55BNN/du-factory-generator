@@ -98,7 +98,7 @@ export class NodeInstruction {
      */
     get relayHeight(): number {
         let numRelays = this.dumpGroup[0].relayRoutes.length
-        return 2.5 * SIZE * numRelays
+        return 5 * SIZE * numRelays
     }
 
     /**
