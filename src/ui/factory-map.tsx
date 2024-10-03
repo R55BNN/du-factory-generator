@@ -176,7 +176,7 @@ export function generateInnerSVG(
                         x={0}
                         y={0}
                         fill="black"
-                        fontSize={2 * FONTSIZE}
+                        fontSize={1 * FONTSIZE}
                         fontWeight="bold"
                         dominantBaseline="middle"
                         textAnchor="middle"
