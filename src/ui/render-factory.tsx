@@ -94,7 +94,7 @@ export const CONTAINERLABELS: { [key: string]: string } = {
 export const SIZE = 60
 
 // The size (in pt) of the font
-export const FONTSIZE = 10
+export const FONTSIZE = 8
 
 // Spacing between link lines
 export const LINKSPACING = 1.1 * FONTSIZE
