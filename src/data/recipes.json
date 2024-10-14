@@ -16443,6 +16443,24 @@
             "Tier 2 XL Element Schematic Copy": 1
         },
         "id": 3858829819
+	},
+    "Legacy Territory Scanner XL": {
+        "tier": 2,
+        "type": "Systems Element",
+        "volume": 12700,
+        "outputQuantity": 1,
+        "time": 92160,
+        "byproducts": {},
+        "industry": "Assembly Line XL",
+        "input": {
+            "Basic Component": 648,
+            "Uncommon Component": 648,
+            "Uncommon Power System": 625,
+            "Uncommon Ore Scanner XL": 1,
+            "Uncommon Reinforced Frame XL": 1,
+            "Tier 2 XL Element Schematic Copy": 1
+        },
+        "id": 4020449708
     },
     "Gyroscope XS": {
         "tier": 1,
