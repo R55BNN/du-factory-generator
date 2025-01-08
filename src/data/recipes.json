@@ -9980,6 +9980,152 @@
         },
         "id": 3273319200
     },
+	"Uncommon Optimized Atmospheric Fuel Tank XS": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 5600,
+        "byproducts": {},
+        "industry": "Assembly Line XS",
+        "input": {
+            "Uncommon Pipe": 1,
+            "Uncommon Injector": 1,
+            "Uncommon Chemical Container XS": 1,
+            "Uncommon Standard Frame XS": 1,
+            "Tier 2 XS Element Schematic Copy": 1
+        },
+        "id": 34191163
+    },
+	"Advanced Optimized Atmospheric Fuel Tank XS": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 1800,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line XS",
+        "input": {
+            "Uncommon Pipe": 1,
+            "Advanced Injector": 1,
+            "Advanced Chemical Container XS": 1,
+            "Advanced Standard Frame XS": 1,
+			"Advanced Quantum Alignment Unit": 4,
+            "Tier 3 XS Element Schematic Copy": 1
+        },
+        "id": 590217537
+    },
+	"Rare Optimized Atmospheric Fuel Tank XS": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 5400,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line XS",
+        "input": {
+            "Uncommon Pipe": 1,
+			"Advanced Pipe": 1,
+            "Rare Injector": 1,
+            "Rare Chemical Container XS": 1,
+            "Rare Standard Frame XS": 1,
+			"Rare Quantum Alignment Unit": 4,
+            "Tier 4 XS Element Schematic Copy": 1
+        },
+        "id": 590217536
+    },
+	"Exotic Optimized Atmospheric Fuel Tank XS": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 16200,
+        "byproducts": {},
+        "industry": "Rare Assembly Line XS",
+        "input": {
+            "Advanced Pipe": 1,
+            "Exotic Injector": 1,
+            "Exotic Chemical Container XS": 1,
+            "Exotic Standard Frame XS": 1,
+			"Exotic Quantum Alignment Unit": 4,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 XS Element Schematic Copy": 1
+        },
+        "id": 590217543
+    },
+	"Uncommon Gravity-Inverted Atmospheric Fuel Tank XS": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 600,
+        "byproducts": {},
+        "industry": "Assembly Line XS",
+        "input": {
+            "Uncommon Pipe": 1,
+            "Uncommon Injector": 1,
+            "Uncommon Chemical Container XS": 1,
+            "Uncommon Standard Frame XS": 1,
+            "Tier 2 XS Element Schematic Copy": 1
+        },
+        "id": 2268129307
+    },
+	"Advanced Gravity-Inverted Atmospheric Fuel Tank XS": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 1800,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line XS",
+        "input": {
+            "Uncommon Pipe": 1,
+            "Advanced Injector": 1,
+            "Advanced Chemical Container XS": 1,
+            "Advanced Standard Frame XS": 1,
+			"Advanced Anti-Gravity Core": 4,
+            "Tier 3 XS Element Schematic Copy": 1
+        },
+        "id": 185422505
+    },
+	"Rare Gravity-Inverted Atmospheric Fuel Tank XS": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 5400,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line XS",
+        "input": {
+            "Uncommon Pipe": 1,
+			"Advanced Pipe": 1,
+            "Rare Injector": 1,
+            "Rare Chemical Container XS": 1,
+            "Rare Standard Frame XS": 1,
+			"Rare Anti-Gravity Core": 4,
+            "Tier 4 XS Element Schematic Copy": 1
+        },
+        "id": 185422504
+    },
+	"Exotic Gravity-Inverted Atmospheric Fuel Tank XS": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 16200,
+        "byproducts": {},
+        "industry": "Rare Assembly Line XS",
+        "input": {
+            "Advanced Pipe": 1,
+            "Exotic Injector": 1,
+            "Exotic Chemical Container XS": 1,
+            "Exotic Standard Frame XS": 1,
+			"Exotic Anti-Gravity Core": 4,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 XS Element Schematic Copy": 1
+        },
+        "id": 185422511
+    },	
     "Atmospheric Fuel Tank S": {
         "tier": 1,
         "type": "Industry & Infrastructure Element",
@@ -9998,6 +10144,154 @@
         },
         "id": 2183619036
     },
+    "Uncommon Optimized Atmospheric Fuel Tank S": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 2400,
+        "byproducts": {},
+        "industry": "Assembly Line S",
+        "input": {
+            "Basic Pipe": 3,
+			"Uncommon Pipe": 3,
+            "Uncommon Injector": 5,
+            "Uncommon Chemical Container S": 1,
+            "Uncommon Standard Frame S": 1,
+            "Tier 2 S Element Schematic Copy": 1
+        },
+        "id": 3510956948
+    },	
+    "Advanced Optimized Atmospheric Fuel Tank S": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 7200,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line S",
+        "input": {
+            "Uncommon Pipe": 6,
+            "Advanced Injector": 5,
+            "Advanced Chemical Container S": 1,
+            "Advanced Standard Frame S": 1,
+			"Advanced Quantum Alignment Unit": 8,
+            "Tier 3 S Element Schematic Copy": 1
+        },
+        "id": 4068567109
+    },	
+    "Rare Optimized Atmospheric Fuel Tank S": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 21600,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line S",
+        "input": {
+            "Uncommon Pipe": 3,
+			"Advanced Pipe": 3,
+            "Rare Injector": 5,
+            "Rare Chemical Container S": 1,
+            "Rare Standard Frame S": 1,
+			"Rare Quantum Alignment Unit": 8,
+            "Tier 4 S Element Schematic Copy": 1
+        },
+        "id": 4068567110
+    },
+	"Exotic Optimized Atmospheric Fuel Tank XS": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 64800,
+        "byproducts": {},
+        "industry": "Rare Assembly Line S",
+        "input": {
+            "Advanced Pipe": 6,
+            "Exotic Injector": 5,
+            "Exotic Chemical Container S": 1,
+            "Exotic Standard Frame S": 1,
+			"Exotic Quantum Alignment Unit": 8,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 S Element Schematic Copy": 1
+        },
+        "id": 4068567111
+    },
+    "Uncommon Gravity-Inverted Atmospheric Fuel Tank S": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 2400,
+        "byproducts": {},
+        "industry": "Assembly Line S",
+        "input": {
+            "Basic Pipe": 3,
+			"Uncommon Pipe": 3,
+            "Uncommon Injector": 5,
+            "Uncommon Chemical Container S": 1,
+            "Uncommon Standard Frame S": 1,
+            "Tier 2 S Element Schematic Copy": 1
+        },
+        "id": 2078334942
+    },	
+    "Advanced Gravity-Inverted Atmospheric Fuel Tank S": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 7200,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line S",
+        "input": {
+            "Uncommon Pipe": 6,
+            "Advanced Injector": 5,
+            "Advanced Chemical Container S": 1,
+            "Advanced Standard Frame S": 1,
+			"Advanced Anti-Gravity Core": 8,
+            "Tier 3 S Element Schematic Copy": 1
+        },
+        "id": 3464984253
+    },	
+    "Rare Gravity-Inverted Atmospheric Fuel Tank S": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 21600,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line S",
+        "input": {
+            "Uncommon Pipe": 3,
+			"Advanced Pipe": 3,
+            "Rare Injector": 5,
+            "Rare Chemical Container S": 1,
+            "Rare Standard Frame S": 1,
+			"Rare Anti-Gravity Core": 8,
+            "Tier 4 S Element Schematic Copy": 1
+        },
+        "id": 3464984250
+    },
+	"Exotic Gravity-Inverted Atmospheric Fuel Tank XS": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 64800,
+        "byproducts": {},
+        "industry": "Rare Assembly Line S",
+        "input": {
+            "Advanced Pipe": 6,
+            "Exotic Injector": 5,
+            "Exotic Chemical Container S": 1,
+            "Exotic Standard Frame S": 1,
+			"Exotic Quantum Alignment Unit": 8,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 S Element Schematic Copy": 1
+        },
+        "id": 3464984251
+    },	
     "Atmospheric Fuel Tank M": {
         "tier": 1,
         "type": "Industry & Infrastructure Element",
@@ -10015,6 +10309,154 @@
         },
         "id": 3464628964
     },
+    "Uncommon Optimized Atmospheric Fuel Tank M": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 9600,
+        "byproducts": {},
+        "industry": "Assembly Line M",
+        "input": {
+            "Basic Pipe": 18,
+			"Uncommon Pipe": 18,
+            "Uncommon Injector": 25,
+            "Uncommon Chemical Container M": 1,
+            "Uncommon Standard Frame M": 1,
+            "Tier 2 M Element Schematic Copy": 1
+        },
+        "id": 103319202
+    },	
+    "Advanced Optimized Atmospheric Fuel Tank M": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 28800,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line M",
+        "input": {
+			"Uncommon Pipe": 36,
+            "Advanced Injector": 25,
+            "Advanced Chemical Container M": 1,
+            "Advanced Standard Frame M": 1,
+			"Advanced Quantum Alignment Unit": 16,
+            "Tier 3 M Element Schematic Copy": 1,
+        },
+        "id": 801882806
+    },		
+    "Rare Optimized Atmospheric Fuel Tank M": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 86400,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line M",
+        "input": {
+			"Uncommon Pipe": 18,
+			"Advanced Pipe": 18,
+            "Rare Injector": 25,
+            "Rare Chemical Container M": 1,
+            "Advanced Standard Frame M": 1,
+			"Rare Quantum Alignment Unit": 16,
+            "Tier 4 M Element Schematic Copy": 1,
+        },
+        "id": 801882807
+    },	
+    "Exotic Optimized Atmospheric Fuel Tank M": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 259200,
+        "byproducts": {},
+        "industry": "Rare Assembly Line M",
+        "input": {
+			"Advanced Pipe": 36,
+            "Exotic Injector": 25,
+            "Exotic Chemical Container M": 1,
+            "Exotic Standard Frame M": 1,
+			"Exotic Quantum Alignment Unit": 16,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 M Element Schematic Copy": 1,
+        },
+        "id": 801882804
+    },	
+    "Uncommon Gravity-Inverted Atmospheric Fuel Tank M": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 9600,
+        "byproducts": {},
+        "industry": "Assembly Line M",
+        "input": {
+            "Basic Pipe": 18,
+			"Uncommon Pipe": 18,
+            "Uncommon Injector": 25,
+            "Uncommon Chemical Container M": 1,
+            "Uncommon Standard Frame M": 1,
+            "Tier 2 M Element Schematic Copy": 1
+        },
+        "id": 2199218873
+    },	
+    "Advanced Gravity-Inverted Atmospheric Fuel Tank M": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 28800,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line M",
+        "input": {
+			"Uncommon Pipe": 36,
+            "Advanced Injector": 25,
+            "Advanced Chemical Container M": 1,
+            "Advanced Standard Frame M": 1,
+			"Advanced Anti-Gravity Core": 16,
+            "Tier 3 M Element Schematic Copy": 1,
+        },
+        "id": 121825379
+    },		
+    "Rare Gravity-Inverted Atmospheric Fuel Tank M": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 86400,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line M",
+        "input": {
+			"Uncommon Pipe": 18,
+			"Advanced Pipe": 18,
+            "Rare Injector": 25,
+            "Rare Chemical Container M": 1,
+            "Advanced Standard Frame M": 1,
+			"Rare Anti-Gravity Core": 16,
+            "Tier 4 M Element Schematic Copy": 1,
+        },
+        "id": 121825378
+    },	
+    "Exotic Gravity-Inverted Atmospheric Fuel Tank M": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 259200,
+        "byproducts": {},
+        "industry": "Rare Assembly Line M",
+        "input": {
+			"Advanced Pipe": 36,
+            "Exotic Injector": 25,
+            "Exotic Chemical Container M": 1,
+            "Exotic Standard Frame M": 1,
+			"Exotic Anti-Gravity Core": 16,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 M Element Schematic Copy": 1,
+        },
+        "id": 121825381
+    },		
     "Atmospheric Fuel Tank L": {
         "tier": 1,
         "type": "Industry & Infrastructure Element",
@@ -10032,6 +10474,152 @@
         },
         "id": 3039582547
     },
+    "Uncommon Optimized Atmospheric Fuel Tank L": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 2755.4,
+        "outputQuantity": 1,
+        "time": 38400,
+        "byproducts": {},
+        "industry": "Assembly Line L",
+        "input": {
+            "Basic Pipe": 108,
+			"Uncommon Pipe": 108,
+            "Uncommon Injector": 125,
+            "Uncommon Chemical Container L": 1,
+            "Uncommon Standard Frame L": 1,
+            "Tier 2 L Element Schematic Copy": 1
+        },
+        "id": 681896062
+    },	
+    "Advanced Optimized Atmospheric Fuel Tank L": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 2755.4,
+        "outputQuantity": 1,
+        "time": 115200,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line L",
+        "input": {
+            "Uncommon Pipe": 216,
+            "Advanced Injector": 125,
+            "Advanced Chemical Container L": 1,
+            "Advanced Standard Frame L": 1,
+            "Tier 3 L Element Schematic Copy": 1
+        },
+        "id": 4181605365
+    },		
+    "Rare Optimized Atmospheric Fuel Tank L": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 345600,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line L",
+        "input": {
+			"Uncommon Pipe": 108,
+			"Advanced Pipe": 108,
+            "Rare Injector": 125,
+            "Rare Chemical Container L": 1,
+            "Rare Standard Frame L": 1,
+			"Rare Quantum Alignment Unit": 32,
+            "Tier 4 L Element Schematic Copy": 1,
+        },
+        "id": 4181605362
+    },	
+    "Exotic Optimized Atmospheric Fuel Tank L": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 1036800,
+        "byproducts": {},
+        "industry": "Rare Assembly Line L",
+        "input": {
+			"Advanced Pipe": 216,
+            "Exotic Injector": 125,
+            "Exotic Chemical Container L": 1,
+            "Exotic Standard Frame L": 1,
+			"Exotic Quantum Alignment Unit": 32,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 L Element Schematic Copy": 1,
+        },
+        "id": 4181605363
+    },	
+    "Uncommon Gravity-Inverted Atmospheric Fuel Tank L": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 2755.4,
+        "outputQuantity": 1,
+        "time": 38400,
+        "byproducts": {},
+        "industry": "Assembly Line L",
+        "input": {
+            "Basic Pipe": 108,
+			"Uncommon Pipe": 108,
+            "Uncommon Injector": 125,
+            "Uncommon Chemical Container L": 1,
+            "Uncommon Standard Frame L": 1,
+            "Tier 2 L Element Schematic Copy": 1
+        },
+        "id": 2216300178
+    },	
+    "Advanced Gravity-Inverted Atmospheric Fuel Tank L": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 2755.4,
+        "outputQuantity": 1,
+        "time": 115200,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line L",
+        "input": {
+            "Uncommon Pipe": 216,
+            "Advanced Injector": 125,
+            "Advanced Chemical Container L": 1,
+            "Advanced Standard Frame L": 1,
+            "Tier 3 L Element Schematic Copy": 1
+        },
+        "id": 1104915586
+    },		
+    "Rare Gravity-Inverted Atmospheric Fuel Tank L": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 345600,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line L",
+        "input": {
+			"Uncommon Pipe": 108,
+			"Advanced Pipe": 108,
+            "Rare Injector": 125,
+            "Rare Chemical Container L": 1,
+            "Rare Standard Frame L": 1,
+			"Rare Anti-Gravity Core": 32,
+            "Tier 4 L Element Schematic Copy": 1,
+        },
+        "id": 1104915587
+    },	
+    "Exotic Gravity-Inverted Atmospheric Fuel Tank L": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 1036800,
+        "byproducts": {},
+        "industry": "Rare Assembly Line L",
+        "input": {
+			"Advanced Pipe": 216,
+            "Exotic Injector": 125,
+            "Exotic Chemical Container L": 1,
+            "Exotic Standard Frame L": 1,
+			"Exotic Anti-Gravity Core": 32,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 L Element Schematic Copy": 1,
+        },
+        "id": 1104915584
+    },		
     "Space Fuel Tank XS": {
         "tier": 1,
         "type": "Industry & Infrastructure Element",
@@ -10050,6 +10638,154 @@
         },
         "id": 2421673145
     },
+    "Uncommon Optimized Space Fuel Tank XS": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 600,
+        "byproducts": {},
+        "industry": "Assembly Line XS",
+        "input": {
+            "Basic Pipe": 1,
+			"Uncommon Pipe": 1,
+            "Uncommon Injector": 1,
+            "Uncommon Chemical Container XS": 1,
+            "Uncommon Standard Frame XS": 1,
+            "Tier 2 XS Element Schematic Copy": 1
+        },
+        "id": 2723679405
+    },	
+    "Advanced Optimized Space Fuel Tank XS": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 1800,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line XS",
+        "input": {
+			"Uncommon Pipe": 1,
+            "Advanced Injector": 1,
+            "Advanced Chemical Container XS": 1,
+            "Advanced Quantum Alignment Unit": 4,
+            "Advanced Standard Frame XS": 1,
+            "Tier 3 XS Element Schematic Copy": 1
+        },
+        "id": 4270367994
+    },	
+    "Rare Optimized Space Fuel Tank XS": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 5400,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line XS",
+        "input": {
+			"Uncommon Pipe": 1,
+			"Advanced Pipe": 1,
+            "Rare Injector": 1,
+			"Rare Chemical Container XS": 1,
+            "Rare Quantum Alignment Unit": 4,
+            "Rare Standard Frame XS": 1,
+            "Tier 4 XS Element Schematic Copy": 1
+        },
+        "id": 4270367989
+    },
+    "Exotic Optimized Space Fuel Tank XS": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 16200,
+        "byproducts": {},
+        "industry": "Rare Assembly Line XS",
+        "input": {
+			"Advanced Pipe": 1,
+            "Exotic Injector": 1,
+			"Exotic Chemical Container XS": 1,
+            "Exotic Quantum Alignment Unit": 4,
+            "Exotic Standard Frame XS": 1,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 XS Element Schematic Copy": 1
+        },
+        "id": 4270367988
+    },	
+    "Uncommon Gravity-Inverted Space Fuel Tank XS": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 600,
+        "byproducts": {},
+        "industry": "Assembly Line XS",
+        "input": {
+            "Basic Pipe": 1,
+			"Uncommon Pipe": 1,
+            "Uncommon Injector": 1,
+            "Uncommon Chemical Container XS": 1,
+            "Uncommon Standard Frame XS": 1,
+            "Tier 2 XS Element Schematic Copy": 1
+        },
+        "id": 319251893
+    },	
+    "Advanced Gravity-Inverted Space Fuel Tank XS": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 1800,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line XS",
+        "input": {
+			"Uncommon Pipe": 1,
+            "Advanced Injector": 1,
+            "Advanced Chemical Container XS": 1,
+            "Advanced Anti-Gravity Core": 4,
+            "Advanced Standard Frame XS": 1,
+            "Tier 3 XS Element Schematic Copy": 1
+        },
+        "id": 2010490156
+    },	
+    "Rare Gravity-Inverted Space Fuel Tank XS": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 5400,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line XS",
+        "input": {
+			"Uncommon Pipe": 1,
+			"Advanced Pipe": 1,
+            "Rare Injector": 1,
+			"Rare Chemical Container XS": 1,
+            "Rare Anti-Gravity Core": 4,
+            "Rare Standard Frame XS": 1,
+            "Tier 4 XS Element Schematic Copy": 1
+        },
+        "id": 2010490159
+    },
+    "Exotic Gravity-Inverted Space Fuel Tank XS": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 17.8,
+        "outputQuantity": 1,
+        "time": 16200,
+        "byproducts": {},
+        "industry": "Rare Assembly Line XS",
+        "input": {
+			"Advanced Pipe": 1,
+            "Exotic Injector": 1,
+			"Exotic Chemical Container XS": 1,
+            "Exotic Anti-Gravity Core": 4,
+            "Exotic Standard Frame XS": 1,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 XS Element Schematic Copy": 1
+        },
+        "id": 2010490158
+    },	
     "Space Fuel Tank S": {
         "tier": 1,
         "type": "Industry & Infrastructure Element",
@@ -10068,6 +10804,155 @@
         },
         "id": 1790622152
     },
+    "Uncommon Optimized Space Fuel Tank S": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 2400,
+        "byproducts": {},
+        "industry": "Assembly Line S",
+        "input": {
+            "Basic Pipe": 3,
+			"Uncommon Pipe": 3,
+            "Uncommon Injector": 5,
+            "Uncommon Chemical Container S": 1,
+            "Uncommon Standard Frame S": 1,
+            "Tier 2 S Element Schematic Copy": 1
+        },
+        "id": 3660622849
+    },
+    "Advanced Optimized Space Fuel Tank S": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 7200,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line S",
+        "input": {
+            "Uncommon Pipe": 6,
+            "Advanced Injector": 5,
+            "Advanced Chemical Container S": 1,
+			"Advanced Quantum Alignment Unit": 8,
+            "Advanced Standard Frame S": 1,
+            "Tier 3 S Element Schematic Copy": 1
+        },
+        "id": 3135113517
+    },	
+    "Rare Optimized Space Fuel Tank S": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 21600,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line S",
+        "input": {
+            "Uncommon Pipe": 3,
+			"Advanced Pipe": 3,
+            "Rare Injector": 5,
+            "Rare Chemical Container S": 1,
+			"Rare Quantum Alignment Unit": 8,
+            "Rare Standard Frame S": 1,
+            "Tier 4 S Element Schematic Copy": 1
+        },
+        "id": 3135113516
+    },	
+    "Exotic Optimized Space Fuel Tank S": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 64800,
+        "byproducts": {},
+        "industry": "Rare Assembly Line S",
+        "input": {
+            "Advanced Pipe": 6,
+			"Exotic Injector": 5,
+            "Exotic Chemical Container S": 1,
+			"Exotic Quantum Alignment Unit": 8,
+            "Exotic Standard Frame S": 1,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 S Element Schematic Copy": 1
+        },
+        "id": 3135113519
+    },		
+    "Uncommon Gravity-Inverted Space Fuel Tank S": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 2400,
+        "byproducts": {},
+        "industry": "Assembly Line S",
+        "input": {
+            "Basic Pipe": 3,
+			"Uncommon Pipe": 3,
+            "Uncommon Injector": 5,
+            "Uncommon Chemical Container S": 1,
+            "Uncommon Standard Frame S": 1,
+            "Tier 2 S Element Schematic Copy": 1
+        },
+        "id": 637265250
+    },
+    "Advanced Gravity-Inverted Space Fuel Tank S": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 7200,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line S",
+        "input": {
+            "Uncommon Pipe": 6,
+            "Advanced Injector": 5,
+            "Advanced Chemical Container S": 1,
+			"Advanced Anti-Gravity Core": 8,
+            "Advanced Standard Frame S": 1,
+            "Tier 3 S Element Schematic Copy": 1
+        },
+        "id": 55848614
+    },	
+    "Rare Gravity-Inverted Space Fuel Tank S": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 21600,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line S",
+        "input": {
+            "Uncommon Pipe": 3,
+			"Advanced Pipe": 3,
+            "Rare Injector": 5,
+            "Rare Chemical Container S": 1,
+			"Rare Anti-Gravity Core": 8,
+            "Rare Standard Frame S": 1,
+            "Tier 4 S Element Schematic Copy": 1
+        },
+        "id": 55848615
+    },	
+    "Exotic Gravity-Inverted Space Fuel Tank S": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 92.6,
+        "outputQuantity": 1,
+        "time": 64800,
+        "byproducts": {},
+        "nanopack": true,
+        "industry": "Rare Assembly Line S",
+        "input": {
+            "Advanced Pipe": 6,
+			"Exotic Injector": 5,
+            "Exotic Chemical Container S": 1,
+			"Exotic Quantum Alignment Unit": 8,
+            "Exotic Standard Frame S": 1,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 S Element Schematic Copy": 1
+        },
+        "id": 55848612
+    },		
     "Space Fuel Tank M": {
         "tier": 1,
         "type": "Industry & Infrastructure Element",
@@ -10085,6 +10970,154 @@
         },
         "id": 773467906
     },
+    "Uncommon Optimized Space Fuel Tank M": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 9600,
+        "byproducts": {},
+        "industry": "Assembly Line M",
+        "input": {
+            "Basic Pipe": 18,
+			"Uncommon Pipe": 18,
+            "Uncommon Injector": 25,
+            "Uncommon Chemical Container M": 1,
+            "Uncommon Standard Frame M": 1,
+            "Tier 2 M Element Schematic Copy": 1
+        },
+        "id": 2717114417
+    },
+    "Advanced Optimized Space Fuel Tank M": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 28800,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line M",
+        "input": {
+			"Uncommon Pipe": 36,
+            "Advanced Injector": 25,
+            "Advanced Chemical Container M": 1,
+			"Advanced Quantum Alignment Unit": 16,
+            "Advanced Standard Frame M": 1,
+            "Tier 3 M Element Schematic Copy": 1
+        },
+        "id": 3797917193
+    },	
+    "Rare Optimized Space Fuel Tank M": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 86400,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line M",
+        "input": {
+			"Uncommon Pipe": 18,
+			"Advanced Pipe": 18,
+            "Rare Injector": 25,
+            "Rare Chemical Container M": 1,
+			"Rare Quantum Alignment Unit": 16,
+            "Rare Standard Frame M": 1,
+            "Tier 4 M Element Schematic Copy": 1
+        },
+        "id": 3797917192
+    },	
+    "Exotic Optimized Space Fuel Tank M": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 259200,
+        "byproducts": {},
+        "industry": "Rare Assembly Line M",
+        "input": {
+			"Advanced Pipe": 36,
+            "Exotic Injector": 25,
+            "Exotic Chemical Container M": 1,
+			"Exotic Quantum Alignment Unit": 16,
+            "Exotic Standard Frame M": 1,
+            "Relic Plasma Duo L": 1,
+            "Tier 4 M Element Schematic Copy": 1
+        },
+        "id": 3797917195
+    },		
+    "Uncommon Gravity-Inverted Space Fuel Tank M": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 9600,
+        "byproducts": {},
+        "industry": "Assembly Line M",
+        "input": {
+            "Basic Pipe": 18,
+			"Uncommon Pipe": 18,
+            "Uncommon Injector": 25,
+            "Uncommon Chemical Container M": 1,
+            "Uncommon Standard Frame M": 1,
+            "Tier 2 M Element Schematic Copy": 1
+        },
+        "id": 3580444026
+    },
+    "Advanced Gravity-Inverted Space Fuel Tank M": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 28800,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line M",
+        "input": {
+			"Uncommon Pipe": 36,
+            "Advanced Injector": 25,
+            "Advanced Chemical Container M": 1,
+			"Advanced Anti-Gravity Core": 16,
+            "Advanced Standard Frame M": 1,
+            "Tier 3 M Element Schematic Copy": 1
+        },
+        "id": 4169669296
+    },	
+    "Rare Gravity-Inverted Space Fuel Tank M": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 86400,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line M",
+        "input": {
+			"Uncommon Pipe": 18,
+			"Advanced Pipe": 18,
+            "Rare Injector": 25,
+            "Rare Chemical Container M": 1,
+			"Rare Anti-Gravity Core": 16,
+            "Rare Standard Frame M": 1,
+            "Tier 4 M Element Schematic Copy": 1
+        },
+        "id": 4169669297
+    },	
+    "Exotic Gravity-Inverted Space Fuel Tank M": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 259200,
+        "byproducts": {},
+        "industry": "Rare Assembly Line M",
+        "input": {
+			"Advanced Pipe": 36,
+            "Exotic Injector": 25,
+            "Exotic Chemical Container M": 1,
+			"Exotic Anti-Gravity Core": 16,
+            "Exotic Standard Frame M": 1,
+            "Relic Plasma Duo L": 1,
+            "Tier 4 M Element Schematic Copy": 1
+        },
+        "id": 4169669302
+    },	
     "Space Fuel Tank L": {
         "tier": 1,
         "type": "Industry & Infrastructure Element",
@@ -10102,6 +11135,152 @@
         },
         "id": 2212207656
     },
+    "Uncommon Optimized Space Fuel Tank L": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 2755.4,
+        "outputQuantity": 1,
+        "time": 38400,
+        "byproducts": {},
+        "industry": "Assembly Line L",
+        "input": {
+            "Basic Pipe": 108,
+			"Uncommon Pipe": 108,
+            "Uncommon Injector": 125,
+            "Uncommon Chemical Container L": 1,
+            "Uncommon Standard Frame L": 1,
+            "Tier 2 L Element Schematic Copy": 1
+        },
+        "id": 1567224122
+    },	
+    "Advanced Optimized Space Fuel Tank L": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 2755.4,
+        "outputQuantity": 1,
+        "time": 115200,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line L",
+        "input": {
+            "Uncommon Pipe": 216,
+            "Advanced Injector": 125,
+            "Advanced Chemical Container L": 1,
+            "Advanced Standard Frame L": 1,
+            "Tier 3 L Element Schematic Copy": 1
+        },
+        "id": 1298642304
+    },		
+    "Rare Optimized Space Fuel Tank L": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 345600,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line L",
+        "input": {
+			"Uncommon Pipe": 108,
+			"Advanced Pipe": 108,
+            "Rare Injector": 125,
+            "Rare Chemical Container L": 1,
+            "Rare Standard Frame L": 1,
+			"Rare Quantum Alignment Unit": 32,
+            "Tier 4 L Element Schematic Copy": 1,
+        },
+        "id": 1298642305
+    },	
+    "Exotic Optimized Space Fuel Tank L": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 1036800,
+        "byproducts": {},
+        "industry": "Rare Assembly Line L",
+        "input": {
+			"Advanced Pipe": 216,
+            "Exotic Injector": 125,
+            "Exotic Chemical Container L": 1,
+            "Exotic Standard Frame L": 1,
+			"Exotic Quantum Alignment Unit": 32,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 L Element Schematic Copy": 1,
+        },
+        "id": 1298642310
+    },	
+    "Uncommon Gravity-Inverted Space Fuel Tank L": {
+        "tier": 2,
+        "type": "Industry & Infrastructure Element",
+        "volume": 2755.4,
+        "outputQuantity": 1,
+        "time": 38400,
+        "byproducts": {},
+        "industry": "Assembly Line L",
+        "input": {
+            "Basic Pipe": 108,
+			"Uncommon Pipe": 108,
+            "Uncommon Injector": 125,
+            "Uncommon Chemical Container L": 1,
+            "Uncommon Standard Frame L": 1,
+            "Tier 2 L Element Schematic Copy": 1
+        },
+        "id": 4106743733
+    },	
+    "Advanced Gravity-Inverted Space Fuel Tank L": {
+        "tier": 3,
+        "type": "Industry & Infrastructure Element",
+        "volume": 2755.4,
+        "outputQuantity": 1,
+        "time": 115200,
+        "byproducts": {},
+        "industry": "Uncommon Assembly Line L",
+        "input": {
+            "Uncommon Pipe": 216,
+            "Advanced Injector": 125,
+            "Advanced Chemical Container L": 1,
+            "Advanced Standard Frame L": 1,
+            "Tier 3 L Element Schematic Copy": 1
+        },
+        "id": 4188179628
+    },		
+    "Rare Gravity-Inverted Space Fuel Tank L": {
+        "tier": 4,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 345600,
+        "byproducts": {},
+        "industry": "Advanced Assembly Line L",
+        "input": {
+			"Uncommon Pipe": 108,
+			"Advanced Pipe": 108,
+            "Rare Injector": 125,
+            "Rare Chemical Container L": 1,
+            "Rare Standard Frame L": 1,
+			"Rare Anti-Gravity Core": 32,
+            "Tier 4 L Element Schematic Copy": 1,
+        },
+        "id": 4188179631
+    },	
+    "Exotic Gravity-Inverted Space Fuel Tank L": {
+        "tier": 5,
+        "type": "Industry & Infrastructure Element",
+        "volume": 499.2,
+        "outputQuantity": 1,
+        "time": 1036800,
+        "byproducts": {},
+        "industry": "Rare Assembly Line L",
+        "input": {
+			"Advanced Pipe": 216,
+            "Exotic Injector": 125,
+            "Exotic Chemical Container L": 1,
+            "Exotic Standard Frame L": 1,
+			"Exotic Anti-Gravity Core": 32,
+            "Relic Plasma Duo L": 1,
+            "Tier 5 L Element Schematic Copy": 1,
+        },
+        "id": 4188179630
+    },	
     "Rocket Fuel Tank XS": {
         "tier": 3,
         "type": "Industry & Infrastructure Element",
