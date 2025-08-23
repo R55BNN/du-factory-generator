@@ -10647,7 +10647,6 @@
         "byproducts": {},
         "industry": "Assembly Line XS",
         "input": {
-            "Basic Pipe": 1,
 			"Uncommon Pipe": 1,
             "Uncommon Injector": 1,
             "Uncommon Chemical Container XS": 1,
